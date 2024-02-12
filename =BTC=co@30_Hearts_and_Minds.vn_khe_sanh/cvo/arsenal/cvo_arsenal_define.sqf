@@ -172,8 +172,6 @@ CVO_A_BASE append [
 	"vn_prop_drink_01",
 	"vn_prop_drink_02",
 	"vn_prop_drink_06",
-	
-	"FISH_Cream_Kit_Tropical",
 
 	"tsp_paperclip",
 
@@ -223,8 +221,7 @@ CVO_A_BASE append [
 	"vn_b_uniform_macv_03_02",
 	"vn_b_uniform_macv_04_02",
 	"vn_b_uniform_macv_05_02",
-	"vn_b_uniform_macv_06_02",
-	""];
+	"vn_b_uniform_macv_06_02"];
 
 // Vests
 CVO_A_BASE append [
